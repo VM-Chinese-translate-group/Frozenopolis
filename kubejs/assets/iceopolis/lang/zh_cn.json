@@ -1,0 +1,18 @@
+﻿{
+  "block.iceopolis.chipped_ice": "碎冰",
+  "block.iceopolis.packed_chipped_ice": "碎浮冰",
+  "block.iceopolis.blue_chipped_ice": "碎蓝冰",
+  "block.iceopolis.ice_bricks": "冰砖",
+
+  "item.iceopolis.ice_chisel": "冰凿",
+  "item.iceopolis.ice_shard": "冰碎片",
+  "item.iceopolis.sharpend_ice": "冰锥",
+
+  "item.iceopolis.ice_sword": "冰剑",
+  "item.iceopolis.ice_shovel": "冰锹",
+  "item.iceopolis.ice_pickaxe": "冰稿",
+  "item.iceopolis.ice_axe": "冰斧",
+  "item.iceopolis.ice_hoe": "冰锄",
+
+  "itemGroup.iceopolis": "冰雪城"
+}

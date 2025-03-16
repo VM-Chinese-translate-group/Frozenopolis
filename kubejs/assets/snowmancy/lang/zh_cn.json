@@ -1,0 +1,28 @@
+{
+    "block.snowmancy.snowman_builder": "雪人建造者",
+    "block.snowmancy.evercold_ice": "永不融化的冰",
+    "item.snowmancy.frozen_snowman": "雪人同伴",
+    "entity.snowmancy.snowman": "雪人同伴",
+    "itemGroup.snowmancy:item_group": "雪法",
+
+    "snowmancy.screen.biomeTooWarm": "生物群系过温暖！",
+
+    "snowmancy.tooltip.goldenCarrot": "金萝卜：%s",
+    "snowmancy.tooltip.attackType": "攻击类型：%s",
+    "snowmancy.tooltip.damage": "伤害：%s",
+    "snowmancy.tooltip.evercold": "永不融化：%s",
+    "snowmancy.tooltip.true": "是",
+    "snowmancy.tooltip.false": "否",
+
+    "snowmancy.attackType.none": "无",
+    "snowmancy.attackType.arrow": "箭",
+    "snowmancy.attackType.egg": "鸡蛋",
+    "snowmancy.attackType.hit": "近战",
+    "snowmancy.attackType.snowball": "雪球",
+
+    "snowmancy.advancement.root.description": "制作雪人建造者",
+    "snowmancy.advancement.snowman_companion.title": "冻结",
+    "snowmancy.advancement.snowman_companion.description": "建造你的第一个雪人同伴！",
+    "snowmancy.advancement.evercold_snowman.title": "永不融化",
+    "snowmancy.advancement.evercold_snowman.description": "通过给雪人同伴戴上永不融化的冰来防止它融化。"
+}

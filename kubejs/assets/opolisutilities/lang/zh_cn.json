@@ -1,0 +1,81 @@
+﻿{
+	"item.opolisutilities.copper_nugget": "铜粒",
+	"item.opolisutilities.wooden_shears": "木剪刀",
+	"item.opolisutilities.home_stone": "Home传送石",
+	"item.opolisutilities.advanced_home_stone": "高级Home传送石",
+	"item.opolisutilities.super_home_stone": "超级Home传送石",
+	"item.opolisutilities.death_stone": "死亡石",
+	"item.opolisutilities.floating_block_item": "浮空方块",
+	"item.opolisutilities.jerky": "肉干",
+	"item.opolisutilities.bundled_flesh": "捆绑肉",
+	"item.opolisutilities.ender_pearl_fragment": "末影珍珠碎片",
+	"item.opolisutilities.b_bucks": "B美元",
+	"item.opolisutilities.leafy_string": "叶绳线",
+  
+	"item.opolisutilities.basic_loot_box": "基础战利品箱",
+	"item.opolisutilities.advanced_loot_box": "高级战利品箱",
+	"item.opolisutilities.elite_loot_box": "精英战利品箱",
+	"item.opolisutilities.wallet": "钱包",
+	"item.opolisutilities.log_sheet": "日志表",
+	"item.opolisutilities.soaked_paper": "浸泡纸",
+  
+	"item.opolisutilities.stone_core": "石制核心",
+	"item.opolisutilities.mini_coal": "碎煤",
+	"item.opolisutilities.mini_charcoal": "碎木炭",
+  
+	"block.opolisutilities.floating_block_block": "浮空方块",
+	"block.opolisutilities.drying_table": "干燥台",
+	"block.opolisutilities.resource_generator": "资源制造机1",
+	"block.opolisutilities.resource_generator_2": "资源制造机2",
+	"block.opolisutilities.ender_ore": "末影矿石",
+	"block.opolisutilities.deepslate_ender_ore": "深板岩末影矿石",
+	"block.opolisutilities.redstone_clock": "红石钟",
+	"block.opolisutilities.ender_scrambler": "末影干扰器",
+	"block.opolisutilities.item_repairer": "物品修复器",
+	"block.opolisutilities.block_placer": "方块放置器",
+	"block.opolisutilities.block_breaker": "方块破坏器",
+	"block.opolisutilities.shop": "商店",
+  
+	"tooltips.home_stone.hover.shift": "按住SHIFT查看更多信息",
+	"tooltips.home_stone.hover.alt": "按ALT查看更多信息",
+	"tooltips.home_stone.no_location_set": "未设置位置！",
+	"tooltips.home_stone.shift.held": "在副手中按住Shift并右击设置位置。主手右键传送到那里！仅在主世界有效！",
+	"tooltips.advanced_home_stone.shift.held": "在副手中按住Shift并右击设置位置。主手右击传送！可跨越主世界、下界和末地！",
+	"tooltips.super_home_stone.shift.held": "在副手中按住Shift并右击设置位置。主手右击传送！可跨越所有维度！",
+	"tooltip.advanced_home_stone.invalid_dimension": "无法在此维度中使用！",
+	"tooltips.home_stone.going_saved_location": "前往保存的位置！",
+	"tooltips.home_stone.no_location": "未设置位置！",
+	"tooltips.home_stone.location_set": "位置已设置！",
+  
+	"tooltips.death_stone.how": "你是怎么得到这个的！",
+	"tooltips.death_stone.going_saved_location": "返回到你最近的死亡地点",
+	"tooltips.death_stone.shift.held": "右击返回到你最近的死亡点。可在任何维度中使用",
+	"tooltips.ender_scrambler.shift.held": "放置以阻止末影人传送！",
+  
+  
+	"tooltips.wallet.hover.shift": "按住SHIFT查看更多信息",
+	"tooltips.wallet.shift.held": "将钱包放在副手中，右击主手中的B美元即可将其添加到钱包中！潜行右击以移除B美元！",
+	"tooltips.wallet.no_b_bucks": "你的钱包是空的！",
+  
+  
+	"tooltips.floating_block.place_in_air": "放置在空中或水中！",
+  
+	"jei.opolisutilities.resource_generator": "将资源制造机上面的方块放在资源制造机上。然后在下方放置像箱子或者漏斗这样的容器",
+  
+	"jei.recipes.resource_generator_2_line_1": "按照示例",
+	"jei.recipes.resource_generator_2_line_2": "放置方块！",
+	"jei.recipes.resource_generator_2_chest_1": "将生成的方块",
+	"jei.recipes.resource_generator_2_chest_2": "放入下方任何的容器中！",
+  
+	"jei.recipes.resource_generator_2_speed_blocks_line_1": "在资源",
+	"jei.recipes.resource_generator_2_speed_blocks_line_2": "制造机2上方放置",
+	"jei.recipes.resource_generator_2_speed_blocks_line_3": "一个加速方块",
+	"jei.recipes.resource_generator_2_speed_blocks_line_4": "将增加速度！",
+  
+	"jei.recipes.resource_generator_2_speed_blocks_line": "每方块的周期",
+  
+	"enchantment.opolisutilities.warden_smite": "坚守者打击",
+  
+	"itemGroup.opolis_utilities": "opolis实用工具"
+  }
+  

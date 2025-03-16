@@ -1,0 +1,21 @@
+{
+  "block.snowballing.snowball_pile": "雪球堆",
+  "block.snowballing.snow_bricks": "雪砖",
+  "block.snowballing.snowball_bricks": "雪球砖",
+
+  "item.snowballing.snowball_pile.size": "%s个雪球",
+  "itemGroup.snowballing.items": "雪球物品",
+  "item.snowballing.snow_sling": "雪球弹弓",
+  "effect.snowballing.snowballed": "被雪球击中",
+
+  "advancement.snowballing.root.title": "打雪仗！",
+  "advancement.snowballing.root.description": "雪球感觉格外神奇。拿出你的铲子，准备打一场雪仗。",
+  "advancement.snowballing.freeze.title": "冷死了！",
+  "advancement.snowballing.freeze.description": "由于雪仗受冻而受到冻伤。",
+  "advancement.snowballing.snowball_fight.title": "雪仗",
+  "advancement.snowballing.snowball_fight.description": "参与与村民的雪仗。你甚至可能赢得奖励！",
+  "advancement.snowballing.snow_sling.title": "弹弓手",
+  "advancement.snowballing.snow_sling.description": "使用雪球弹弓发射强大的雪球，将你的敌人击退！",
+  "advancement.snowballing.accidental_doom.title": "但是现在是冬天，不是秋天！",
+  "advancement.snowballing.accidental_doom.description": "用于强大的雪球弹弓导致的跌倒杀死一个敌人。"
+}
